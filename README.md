@@ -1,2 +1,2 @@
-# gradle-spring-boot-template
+# Gradle Spring Boot Template
 Gradle Spring Boot Template
